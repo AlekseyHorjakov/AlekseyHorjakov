@@ -1,6 +1,6 @@
 # Алексей Хорьяков
 
-AI Automation Engineer
+AI Automation Engineer | OpenAI | n8n | Telegram
 
 Разрабатываю AI-ассистентов, AI-агентов и автоматизацию бизнес-процессов с использованием OpenAI, n8n и Telegram.
 
