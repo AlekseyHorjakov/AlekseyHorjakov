@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**AlekseyHorjakov/AlekseyHorjakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # Алексей Хорьяков
 
 AI Automation Engineer
