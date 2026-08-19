@@ -36,12 +36,6 @@ AI-система для обучения сотрудников и формир
 
 [Репозиторий JARVIS](https://github.com/AlekseyHorjakov/JARVIS)
 
-### Другие проекты
-
-- **AI Business Audit Agent** — анализ бизнес-процессов и поиск возможностей для автоматизации.
-- **Telegram Clinic Bot** — Telegram-бот для медицинского центра.
-- **Production Control Automation** — автоматизация производственных процессов.
-
 ---
 
 ## Технологии
@@ -71,6 +65,7 @@ AI-система для обучения сотрудников и формир
 
 ## Контакты
 
+- Телефон: **+79891213994**
 - Email: **a.horjakoff@gmail.com**
 - GitHub: https://github.com/AlekseyHorjakov
 - Telegram: @a_horjakoff
